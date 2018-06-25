@@ -1,0 +1,20 @@
+.box {
+  background: white;
+  padding: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+.box:hover {
+    background: lightgrey;
+}
+
+.active-box {
+    background: black;
+    color: white;
+}
+hr {
+    border: 3px solid lightgrey;
+}
+.card-img-top:hover {
+    opacity: 0.7;
+}
