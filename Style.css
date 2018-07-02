@@ -21,3 +21,10 @@ hr {
 body {
     background: rgba(250, 42, 5, 0.93);
 }
+.lowerfooter {
+    background: White;
+    position: sticky;
+    Padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
